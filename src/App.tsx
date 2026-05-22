@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import "./app.css";
+import "./App.css";
 import img1 from "./assets/img/img1.png";
 import img2 from "./assets/img/Dani.png";
 import img3 from "./assets/img/img3.png";
